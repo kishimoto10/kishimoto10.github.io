@@ -1,4 +1,15 @@
-h1 {
-  font-size: 24px;
+header {
+  font-family:"Yu Gothic", "游ゴシック", YuGothic, "游ゴシック体";
+  font-size: 40px;
   padding-bottom: 8px;
   border-bottom: 1px solid #ddd;
+  }
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+address {
+  border-top: 1px solid #ddd; 
+}
