@@ -5,6 +5,18 @@ h1 {
   border-bottom: 1px solid #ddd;
   }
 
+p {
+  padding-left: 30px;
+}
+
+img {
+  padding: 30px;
+}
+
+iframe {
+  padding: 30px;
+}
+
 li {
   list-style: none;
   padding : 0;
