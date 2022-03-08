@@ -52,7 +52,7 @@ img {
   display: flex; /* 中の要素を横並びにする */
   align-items: center; /* 中の要素を上下中央に並べる */
   justify-content: space-between;
-  background: linear-gradient(rgb(202, 18, 18) 15%, white 0, white 85%, rgb(202, 18, 18)0);
+  background: linear-gradient(rgba(216, 77, 84, 0.685) 15%, white 0, white 85%, rgba(216, 77, 84, 0.685) 0);
 }
 
 main {
