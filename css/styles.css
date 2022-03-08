@@ -17,11 +17,15 @@ iframe {
   padding: 30px;
 }
 
-li {
-  list-style: none;
+ul {
+  list-style-type: none;
   padding : 0;
 }
 
 address {
   border-top: 1px solid #ddd; 
+}
+
+.top {
+  float: right;
 }
